@@ -1,86 +1,36 @@
-# 👋 Hi, I'm James E. McFaddin
+# James McFaddin
 
-I'm a software developer with decades of real-world experience—from writing embedded assembly in the 1970s to building Python-based cloud-integrated systems today.
+**Veteran Software Engineer | Raspberry Pi & Python Automation | Embedded to Enterprise | Patented Inventor | Still Shipping**
 
-I started using GitHub to stop losing code to dead disks and forgotten folders. This is my way of preserving work, sharing active projects, and maybe helping someone avoid a rabbit hole I’ve already crawled through.
+👋 Welcome. I’m James McFaddin — a veteran developer who’s been shipping software since punch cards were still warm. My work spans real-time control systems, embedded hardware, Windows GUIs, and cloud-connected digital signage built on Raspberry Pi.
 
-I still write code. I still fix things. I still break stuff just to see how it ticks.
+I use GitHub as a cloud archive for my projects — to preserve work, prevent “lost history,” and occasionally launch something new.
 
----
+## 🔧 Current Focus Areas
+- **Raspberry Pi automation** for digital signage and smart displays
+- **Python development** with real-world deployment in retail and bar environments
+- **Google & Microsoft Cloud APIs**: Contacts, Calendar, Drive, Facebook Graph API
+- **VLC, video scheduling**, and content synchronization for real-time ad playback
+- **System automation** with `systemd`, Bash, and Python
 
-## 🔧 What I Do (and Have Done)
+## 🛠️ Technologies Worked With
+- **Languages**: Python, C, C++, C#, Visual Basic, JavaScript, Assembly (x86, 80x86, Z80)
+- **Frameworks**: MFC, ATL, COM/DCOM, ASP.NET, SQL Server
+- **Platforms**: Raspberry Pi (Linux), Windows (NT to 11), VMS, OS/2
+- **Interfaces**: USB, SPI, TDM, Serial
+- **Cloud Services**: Google Cloud APIs, Facebook Graph API, Microsoft Azure (light use)
+- **Microprocessors**: Intel's 8048, 8051, 8080, (Z80), 8088, 80186 & 80188  
+  Analog Device’s Blackfin & SHARC DSPs • AMD’s MicroBlaze • RTOS embedded systems
 
-- **Embedded Systems & DSP:**  
-  8048, 8051, 8080, Z80, 8088, Blackfin, SHARC, MicroBlaze, USB, SPI, TDM, RTOS
+## 🧠 Noteworthy
+In 1999, while working at Broadcast.com during its Yahoo acquisition, I developed a prototype called **AdMerge** — a system that replaced manual video ad insertion with fully automated merging, tracking, and billing. It eliminated an entire infrastructure from client delivery to VCR tape playback to logging. The dot-com crash derailed the patent, but the core ideas live on in today’s streaming ad tech.
 
-- **Desktop & Windows Dev:**  
-  Visual C++, MFC, ATL, COM/DCOM, Win32 SDK, DLLs, multi-threading, Crystal Reports
+> 🎖️ Inventor on U.S. Patent [US4524420A](https://patents.google.com/patent/US4524420A) – *Signal Processing Apparatus*
 
-- **Database Systems:**  
-  SQL Server, Sybase, Oracle, Access, stored procedures, triggers, ADO, ODBC
+## 📫 Reach Me
+- Email: [jmcfaddin@live.com](mailto:jmcfaddin@live.com) — use subject line “GitHub Stuff”
+- GitHub: [github.com/JamesMcFaddin](https://github.com/JamesMcFaddin)
 
-- **Web & Cloud Integration:**  
-  Python + cloud APIs (Google & Microsoft Azure), including:  
-  - Contacts API  
-  - Calendar API  
-  - Mail API  
-  - Facebook Graph API  
-  - Cloud automation and content sync  
-
-- **Current Focus:**  
-  Raspberry Pi-based signage & automation, cloud-integrated Python systems, digital portals for small businesses
-
----
-
-## 🗂️ Featured Project: [AdProcess](https://github.com/JamesMcFaddin/AdProcess)
-
-A lightweight, reliable ad scheduling and playback system designed to run unattended on Raspberry Pi Zero devices. Built to support:
-
-- Business hours logic (with open/close times)
-- Date-based scheduling with file sync from cloud
-- Local network mounts via Samba
-- Facebook and Google API integration for birthdays, events, and banners
-- Seamless playback with VLC and systemd services
-
-Designed for bars, restaurants, and small venues that want a smarter way to manage in-house displays.
-
----
-
-## 🧠 Patents
-
-**US 4,524,420 – Signal Processing Apparatus**  
-Inventor of a patented real-time signal processing system used in gas chromatography—now standard in forensic, medical, and industrial labs.  
-[🔗 View Patent](https://patents.google.com/patent/US4524420A)
-
----
-
-## 🛤️ Timeline Snapshot
-
-| Years        | Focus                                           |
-|--------------|-------------------------------------------------|
-| 1975–1984    | Embedded & assembly code for oilfield systems   |
-| 1985–1999    | SCADA, financial software, GUIs, DLLs, COM/DCOM |
-| 2000–2010    | Streaming media, Windows apps, real-time control|
-| 2010–2020    | POS systems, CAD, SQL-heavy enterprise apps     |
-| 2020–Now     | Python + Raspberry Pi, automation, cloud APIs   |
-
----
-
-## 🎣 When Not Coding...
-
-You'll probably find me fishing, behind a camera, or yelling at a Raspberry Pi that worked yesterday.  
-
-I’ve been around long enough to know that sometimes, turning it off and back on really *does* fix it.
-
----
-
-## 📫 Contact Me
-
-- ✉️ jmcfaddin@live.com  
-- 📍 Dallas, Texas  
-- 🧰 Open to collaboration, consulting, or conversations
-
----
-
-> "Build what works. Make it last. Know where it breaks."  
-> —James E. McFaddin
+<!--
+JamesMcFaddin/JamesMcFaddin is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
