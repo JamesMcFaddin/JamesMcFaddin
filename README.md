@@ -60,3 +60,12 @@ Created in 1999 while at Broadcast.com (right before the Yahoo acquisition). Thi
 ---
 
 > *“Still writing code. Still learning. Still having fun.”*
+
+
+### 📝 US Patent Application #20030056213A1 — [AdMerge](https://patents.google.com/patent/US20030056213A1/en)
+
+In 1999, I joined Broadcast.com just weeks before it was acquired by Yahoo. At the time, ad insertion was literally done by humans clicking between live streams and VHS tapes.
+
+Within a week, I had cobbled together a prototype system I called **AdMerge** — an automated pipeline that replaced an entire infrastructure: from clients recording ads onto physical tapes and shipping them with schedules, to us loading them manually into VCRs. My system accepted emailed ads, handled timed playback, and automatically logged events for billing.
+
+Yahoo offered me $1 to sign over the IP. I passed.
